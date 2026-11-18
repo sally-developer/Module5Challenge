@@ -1,0 +1,14 @@
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/bin/Debug/net10.0/Module5Challenge
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/bin/Debug/net10.0/Module5Challenge.deps.json
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/bin/Debug/net10.0/Module5Challenge.runtimeconfig.json
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/bin/Debug/net10.0/Module5Challenge.dll
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/bin/Debug/net10.0/Module5Challenge.pdb
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/obj/Debug/net10.0/Module5Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/obj/Debug/net10.0/Module5Challenge.AssemblyInfoInputs.cache
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/obj/Debug/net10.0/Module5Challenge.AssemblyInfo.cs
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/obj/Debug/net10.0/Module5Challenge.csproj.CoreCompileInputs.cache
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/obj/Debug/net10.0/Module5Challenge.dll
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/obj/Debug/net10.0/refint/Module5Challenge.dll
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/obj/Debug/net10.0/Module5Challenge.pdb
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/obj/Debug/net10.0/Module5Challenge.genruntimeconfig.cache
+/Users/salma/Desktop/DOTNET-PROJECTS/Module5/Module5Challenge/obj/Debug/net10.0/ref/Module5Challenge.dll
